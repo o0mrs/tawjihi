@@ -3,17 +3,17 @@
   "name": "رحلة من طلب العلم إلى طلب النجدة.",
   "icons": [
     {
-      "src": "https://scontent.cdninstagram.com/v/t1.15752-9/311301159_1575877759513330_2713565254053380856_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5a057b&_nc_ohc=e8hRywzFkwQAX_TTi0K&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AdSVEa8aeSctlh77vpL5TJJnyEl_u5AEuyf6Z_QejIXAxg&oe=6375AF4C",
+      "src": "/logo.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://scontent.cdninstagram.com/v/t1.15752-9/311301159_1575877759513330_2713565254053380856_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5a057b&_nc_ohc=e8hRywzFkwQAX_TTi0K&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AdSVEa8aeSctlh77vpL5TJJnyEl_u5AEuyf6Z_QejIXAxg&oe=6375AF4C",
+      "src": "/logo.jpeg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://scontent.cdninstagram.com/v/t1.15752-9/311301159_1575877759513330_2713565254053380856_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5a057b&_nc_ohc=e8hRywzFkwQAX_TTi0K&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AdSVEa8aeSctlh77vpL5TJJnyEl_u5AEuyf6Z_QejIXAxg&oe=6375AF4C",
+      "src": "/logo.jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }
